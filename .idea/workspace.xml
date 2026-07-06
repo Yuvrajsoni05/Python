@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef787b3c-838a-4d5e-8103-835a8469ae49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/Abstraction/a1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/class/class_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/day1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/del_fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented Program/class/l_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented Program/inheritance/inh_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object Oriented Program/class/class_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Object Oriented Program/class/class_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,61 +30,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3980816826970783" />
-      <entry key="MS500" value="3.082011347595737" />
-      <entry key="S2" value="4.9200127597776415" />
-      <entry key="S5" value="5.52772694800023" />
-      <entry key="S10" value="5.756535693155395" />
-      <entry key="S30" value="5.917155139305362" />
-      <entry key="S60" value="5.958362326615681" />
-      <entry key="M2" value="5.979135171841053" />
-      <entry key="M5" value="6.068957681698168" />
-      <entry key="M10" value="7.868397677274683" />
-      <entry key="M15" value="12.131638409151314" />
-      <entry key="M30" value="30.773127472676858" />
-      <entry key="H1" value="64.400163686494" />
-      <entry key="H2" value="107.2387774381567" />
-      <entry key="H4" value="159.2483733630658" />
-      <entry key="D1" value="327.4665258991959" />
-      <entry key="W1" value="402.60625560492684" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000001597146515" />
+      <entry key="S2" value="1.0199910768862919" />
+      <entry key="S5" value="1.2090905840792117" />
+      <entry key="S10" value="1.4572642387932953" />
+      <entry key="S30" value="1.7704108892599437" />
+      <entry key="S60" value="1.877730533433068" />
+      <entry key="M2" value="1.9368855649316683" />
+      <entry key="M5" value="2.081710989493044" />
+      <entry key="M10" value="5.244937071761216" />
+      <entry key="M15" value="12.871512743655938" />
+      <entry key="M30" value="42.77579548153715" />
+      <entry key="H1" value="94.46808139991343" />
+      <entry key="H2" value="160.0105004129238" />
+      <entry key="H4" value="232.55406641830967" />
+      <entry key="D1" value="432.0670914953936" />
+      <entry key="W1" value="518.3183890619791" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="1.2876148489395968E-148" />
-      <entry key="S10" value="1.4086141407469018E-74" />
-      <entry key="S30" value="4.28516942066665E-25" />
-      <entry key="S60" value="1.3842650183588388E-12" />
-      <entry key="M2" value="2.920225734746237E-6" />
-      <entry key="M5" value="0.019378052101386323" />
-      <entry key="M10" value="0.38058205942430745" />
-      <entry key="M15" value="1.09156701160724" />
-      <entry key="M30" value="3.5837099581609984" />
-      <entry key="H1" value="7.264671199585054" />
-      <entry key="H2" value="11.006845236166804" />
-      <entry key="H4" value="14.650253061673682" />
-      <entry key="D1" value="27.342239113534973" />
-      <entry key="W1" value="33.671354069893304" />
+      <entry key="S2" value="6.563424797E-313" />
+      <entry key="S5" value="1.54856066450119E-125" />
+      <entry key="S10" value="5.117840524409396E-63" />
+      <entry key="S30" value="2.675937640176505E-21" />
+      <entry key="S60" value="7.312528307807611E-11" />
+      <entry key="M2" value="1.2812548620085219E-5" />
+      <entry key="M5" value="0.024721294664364" />
+      <entry key="M10" value="0.39661574725518445" />
+      <entry key="M15" value="1.0891328964435487" />
+      <entry key="M30" value="3.5938752451433715" />
+      <entry key="H1" value="8.078480082165092" />
+      <entry key="H2" value="13.609380560589594" />
+      <entry key="H4" value="19.071262668696804" />
+      <entry key="D1" value="34.294584074500236" />
+      <entry key="W1" value="41.490382168476074" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3592914106743557" />
-      <entry key="MS500" value="3.036386385987119" />
-      <entry key="S2" value="4.900344472365303" />
-      <entry key="S5" value="5.518888220595799" />
-      <entry key="S10" value="5.7519388862408665" />
-      <entry key="S30" value="5.915581880008647" />
-      <entry key="S60" value="5.957570472627265" />
-      <entry key="M2" value="5.978740763100029" />
-      <entry key="M5" value="6.0879227872672015" />
-      <entry key="M10" value="8.246231077806463" />
-      <entry key="M15" value="13.217805768995841" />
-      <entry key="M30" value="34.34747058929266" />
-      <entry key="H1" value="71.65499330274339" />
-      <entry key="H2" value="118.23787407618352" />
-      <entry key="H4" value="173.89332814328756" />
-      <entry key="D1" value="354.80719204005345" />
-      <entry key="W1" value="436.27734008632837" />
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.9848664722061965" />
+      <entry key="S2" value="1.0092794245003733" />
+      <entry key="S5" value="1.1749591006330338" />
+      <entry key="S10" value="1.4193364627445482" />
+      <entry key="S30" value="1.7486917360933139" />
+      <entry key="S60" value="1.8652895116745392" />
+      <entry key="M2" value="1.9302396408022213" />
+      <entry key="M5" value="2.1034497784588413" />
+      <entry key="M10" value="5.637899190274777" />
+      <entry key="M15" value="13.955156165273355" />
+      <entry key="M30" value="46.360813625156304" />
+      <entry key="H1" value="102.53623063354871" />
+      <entry key="H2" value="173.61082646233763" />
+      <entry key="H4" value="251.6187879940792" />
+      <entry key="D1" value="466.3597454239358" />
+      <entry key="W1" value="559.808443528065" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -102,44 +99,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.a1.executor": "Run",
-    "Python.class_01.executor": "Run",
-    "Python.class_02.executor": "Run",
-    "Python.day1.executor": "Run",
-    "Python.del_fun.executor": "Run",
-    "Python.funcation_01.executor": "Run",
-    "Python.funcation_02.executor": "Run",
-    "Python.funcation_03.executor": "Run",
-    "Python.funcation_04.executor": "Run",
-    "Python.funcation_05.executor": "Run",
-    "Python.recurstion_01.executor": "Run",
-    "Python.recurstion_02.executor": "Run",
-    "Python.recurstion_03.executor": "Run",
-    "Python.recurstion_04.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "last_opened_file_path": "D:/Yuvraj/Projects/Python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.a1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.del_fun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inh_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.l_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurstion_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurstion_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurstion_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurstion_04.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Yuvraj/Projects/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Yuvraj\Projects\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.del_fun">
+  <component name="RunManager" selected="Python.inh_01">
     <configuration name="a1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -156,54 +155,6 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Oriented Program/Abstraction/a1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="class_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object Oriented Program/class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Oriented Program/class/class_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="class_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object Oriented Program/class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Oriented Program/class/class_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,13 +211,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="inh_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object Oriented Program/inheritance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Oriented Program/inheritance/inh_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="l_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object Oriented Program/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Oriented Program/class/l_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.inh_01" />
+        <item itemvalue="Python.l_8" />
         <item itemvalue="Python.del_fun" />
         <item itemvalue="Python.day1" />
         <item itemvalue="Python.a1" />
-        <item itemvalue="Python.class_02" />
-        <item itemvalue="Python.class_01" />
       </list>
     </recent_temporary>
   </component>
