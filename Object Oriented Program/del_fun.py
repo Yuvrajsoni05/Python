@@ -13,7 +13,8 @@ class Bank_account:
         self.account_no =account_no
         self.__account_password = account_password
     def reset_password(self):
-        print(self.__account_password)
+        return self.__account_password
+        # return "We have reset your password"
 
 ac = Bank_account(account_no="123",account_password="94995612")
 print(ac.reset_password())
