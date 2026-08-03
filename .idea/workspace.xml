@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef787b3c-838a-4d5e-8103-835a8469ae49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/Polymorphism/p1_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/day2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/inheritance/inh_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/inheritance/inh_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/inheritance/property_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpiralMatrix/p1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object Oriented Program/del_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/Object Oriented Program/del_fun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object Oriented Program/inheritance/inh_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Object Oriented Program/inheritance/inh_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,67 +23,79 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yuvrajsoni05&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yuvrajsoni05/python.git&quot;,
+    &quot;accountId&quot;: &quot;3f7d2c52-43cb-4f62-94ad-050b9725795a&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000001947426082" />
-      <entry key="MS500" value="1.07209285109723" />
-      <entry key="S2" value="1.5236474307634502" />
-      <entry key="S5" value="1.9262913366212095" />
-      <entry key="S10" value="2.517357571647339" />
-      <entry key="S30" value="5.608976692853386" />
-      <entry key="S60" value="10.092972239447718" />
-      <entry key="M2" value="16.233225355138366" />
-      <entry key="M5" value="25.320838139195406" />
-      <entry key="M10" value="34.20510615795515" />
-      <entry key="M15" value="40.16840230088628" />
-      <entry key="M30" value="49.67547029039239" />
-      <entry key="H1" value="60.71744473109293" />
-      <entry key="H2" value="98.88725136573078" />
-      <entry key="H4" value="199.69671841858505" />
-      <entry key="D1" value="594.6903520995337" />
-      <entry key="W1" value="783.123955312189" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000124" />
+      <entry key="S2" value="1.0003340843448034" />
+      <entry key="S5" value="1.0406951309240322" />
+      <entry key="S10" value="1.2017303421006174" />
+      <entry key="S30" value="1.5864852241325256" />
+      <entry key="S60" value="1.7658240873763216" />
+      <entry key="M2" value="1.8777648184939992" />
+      <entry key="M5" value="2.291448946593822" />
+      <entry key="M10" value="3.7281459613889276" />
+      <entry key="M15" value="5.046361049722296" />
+      <entry key="M30" value="9.416350927969647" />
+      <entry key="H1" value="28.94163438582345" />
+      <entry key="H2" value="82.51277491331136" />
+      <entry key="H4" value="193.51752292068264" />
+      <entry key="D1" value="669.3462417888888" />
+      <entry key="W1" value="917.2636311395052" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.3608630304496912E-104" />
-      <entry key="S2" value="1.0800742296426603E-26" />
-      <entry key="S5" value="4.105645442375617E-11" />
-      <entry key="S10" value="6.407531073553931E-6" />
-      <entry key="S30" value="0.01859739922138061" />
-      <entry key="S60" value="0.14489244549879393" />
-      <entry key="M2" value="0.5618645637121863" />
-      <entry key="M5" value="2.185543834944195" />
-      <entry key="M10" value="4.0152042140571735" />
-      <entry key="M15" value="5.008355063182632" />
-      <entry key="M30" value="6.31353339983277" />
-      <entry key="H1" value="7.57944307239646" />
-      <entry key="H2" value="11.877148674213805" />
-      <entry key="H4" value="22.667140197031976" />
-      <entry key="D1" value="60.22255747910878" />
-      <entry key="W1" value="77.37627455827368" />
+      <entry key="MS100" value="1.926890083032129E-24" />
+      <entry key="MS500" value="1.8070550718106875E-5" />
+      <entry key="S2" value="0.06530511443491237" />
+      <entry key="S5" value="0.36119800431444393" />
+      <entry key="S10" value="0.7395215476218712" />
+      <entry key="S30" value="1.3768010924684304" />
+      <entry key="S60" value="1.650040802689894" />
+      <entry key="M2" value="1.8140206448614806" />
+      <entry key="M5" value="1.922762653695851" />
+      <entry key="M10" value="1.961103573794931" />
+      <entry key="M15" value="1.979479884931589" />
+      <entry key="M30" value="2.2099556467662165" />
+      <entry key="H1" value="3.852625063797187" />
+      <entry key="H2" value="8.782955894799404" />
+      <entry key="H4" value="19.761212388775117" />
+      <entry key="D1" value="65.19179018633419" />
+      <entry key="W1" value="88.06149888865025" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.011438169499575199" />
-      <entry key="MS500" value="0.4092648006182352" />
-      <entry key="S2" value="0.9368565044758024" />
-      <entry key="S5" value="1.4935695537621392" />
-      <entry key="S10" value="2.2004074937794567" />
-      <entry key="S30" value="5.405692709966953" />
-      <entry key="S60" value="10.062821079907186" />
-      <entry key="M2" value="16.670182626965357" />
-      <entry key="M5" value="27.436137152742436" />
-      <entry key="M10" value="38.176771754640875" />
-      <entry key="M15" value="45.14438599847172" />
-      <entry key="M30" value="55.9703257102989" />
-      <entry key="H1" value="68.2861834746598" />
-      <entry key="H2" value="110.75675120754283" />
-      <entry key="H4" value="222.3570670845796" />
-      <entry key="D1" value="654.9099560718064" />
-      <entry key="W1" value="860.4996879055295" />
+      <entry key="MS100" value="2.0399900836282262E-20" />
+      <entry key="MS500" value="1.2041522400715322E-4" />
+      <entry key="S2" value="0.15141784120173443" />
+      <entry key="S5" value="0.7561880152051011" />
+      <entry key="S10" value="1.5145199360226285" />
+      <entry key="S30" value="2.777592881081553" />
+      <entry key="S60" value="3.314816461289309" />
+      <entry key="M2" value="3.638872395681348" />
+      <entry key="M5" value="4.191551557928524" />
+      <entry key="M10" value="5.676025757090612" />
+      <entry key="M15" value="7.015906877694031" />
+      <entry key="M30" value="11.619534156153257" />
+      <entry key="H1" value="32.787036597872174" />
+      <entry key="H2" value="91.28736648108826" />
+      <entry key="H4" value="213.2704198784077" />
+      <entry key="D1" value="734.5342176641989" />
+      <entry key="W1" value="1005.3244183622323" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -125,11 +128,13 @@
     "Python.inh_02.executor": "Run",
     "Python.inh_03.executor": "Run",
     "Python.l_8.executor": "Run",
+    "Python.p1.executor": "Run",
     "Python.p1_01.executor": "Run",
     "Python.property_01.executor": "Run",
     "Python.q1.executor": "Run",
     "Python.q2.executor": "Run",
     "Python.q3.executor": "Run",
+    "Python.q4.executor": "Run",
     "Python.recurstion_01.executor": "Run",
     "Python.recurstion_02.executor": "Run",
     "Python.recurstion_03.executor": "Run",
@@ -154,8 +159,8 @@
       <recent name="D:\Yuvraj\Projects\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q3">
-    <configuration name="day2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.p1">
+    <configuration name="p1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,37 +169,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object Oriented Program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SpiralMatrix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Oriented Program/day2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p1_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object Oriented Program/Polymorphism" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Oriented Program/Polymorphism/p1_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpiralMatrix/p1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,13 +256,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="q4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacker Rank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacker Rank/q4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p1" />
+        <item itemvalue="Python.q4" />
         <item itemvalue="Python.q3" />
         <item itemvalue="Python.q2" />
         <item itemvalue="Python.q1" />
-        <item itemvalue="Python.day2" />
-        <item itemvalue="Python.p1_01" />
       </list>
     </recent_temporary>
   </component>
