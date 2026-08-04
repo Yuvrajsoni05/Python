@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef787b3c-838a-4d5e-8103-835a8469ae49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpiralMatrix/p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting PGM/selection_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,61 +41,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000124" />
-      <entry key="S2" value="1.0003340843448034" />
-      <entry key="S5" value="1.0406951309240322" />
-      <entry key="S10" value="1.2017303421006174" />
-      <entry key="S30" value="1.5864852241325256" />
-      <entry key="S60" value="1.7658240873763216" />
-      <entry key="M2" value="1.8777648184939992" />
-      <entry key="M5" value="2.291448946593822" />
-      <entry key="M10" value="3.7281459613889276" />
-      <entry key="M15" value="5.046361049722296" />
-      <entry key="M30" value="9.416350927969647" />
-      <entry key="H1" value="28.94163438582345" />
-      <entry key="H2" value="82.51277491331136" />
-      <entry key="H4" value="193.51752292068264" />
-      <entry key="D1" value="669.3462417888888" />
-      <entry key="W1" value="917.2636311395052" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.2286469534417365E-152" />
+      <entry key="S2" value="1.0528264256650487E-38" />
+      <entry key="S5" value="6.442074675421664E-16" />
+      <entry key="S10" value="2.597410903318702E-8" />
+      <entry key="S30" value="0.004839050342006024" />
+      <entry key="S60" value="0.1391943567133466" />
+      <entry key="M2" value="0.8114450099760707" />
+      <entry key="M5" value="2.4339400293885087" />
+      <entry key="M10" value="3.8254490381944772" />
+      <entry key="M15" value="5.081982988025591" />
+      <entry key="M30" value="11.265706550250396" />
+      <entry key="H1" value="26.5288641737222" />
+      <entry key="H2" value="61.29450599754607" />
+      <entry key="H4" value="150.32354836826582" />
+      <entry key="D1" value="662.626195681694" />
+      <entry key="W1" value="969.3055538512015" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.926890083032129E-24" />
-      <entry key="MS500" value="1.8070550718106875E-5" />
-      <entry key="S2" value="0.06530511443491237" />
-      <entry key="S5" value="0.36119800431444393" />
-      <entry key="S10" value="0.7395215476218712" />
-      <entry key="S30" value="1.3768010924684304" />
-      <entry key="S60" value="1.650040802689894" />
-      <entry key="M2" value="1.8140206448614806" />
-      <entry key="M5" value="1.922762653695851" />
-      <entry key="M10" value="1.961103573794931" />
-      <entry key="M15" value="1.979479884931589" />
-      <entry key="M30" value="2.2099556467662165" />
-      <entry key="H1" value="3.852625063797187" />
-      <entry key="H2" value="8.782955894799404" />
-      <entry key="H4" value="19.761212388775117" />
-      <entry key="D1" value="65.19179018633419" />
-      <entry key="W1" value="88.06149888865025" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000004" />
+      <entry key="S10" value="1.000000020465814" />
+      <entry key="S30" value="1.0039715863786662" />
+      <entry key="S60" value="1.113764814004002" />
+      <entry key="M2" value="1.7072615925616015" />
+      <entry key="M5" value="3.271550964116245" />
+      <entry key="M10" value="4.550660244918446" />
+      <entry key="M15" value="5.28134880229638" />
+      <entry key="M30" value="6.58020451303691" />
+      <entry key="H1" value="8.198263019883855" />
+      <entry key="H2" value="11.422441757626785" />
+      <entry key="H4" value="20.057476606176326" />
+      <entry key="D1" value="69.10491901896206" />
+      <entry key="W1" value="97.63854991407793" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.0399900836282262E-20" />
-      <entry key="MS500" value="1.2041522400715322E-4" />
-      <entry key="S2" value="0.15141784120173443" />
-      <entry key="S5" value="0.7561880152051011" />
-      <entry key="S10" value="1.5145199360226285" />
-      <entry key="S30" value="2.777592881081553" />
-      <entry key="S60" value="3.314816461289309" />
-      <entry key="M2" value="3.638872395681348" />
-      <entry key="M5" value="4.191551557928524" />
-      <entry key="M10" value="5.676025757090612" />
-      <entry key="M15" value="7.015906877694031" />
-      <entry key="M30" value="11.619534156153257" />
-      <entry key="H1" value="32.787036597872174" />
-      <entry key="H2" value="91.28736648108826" />
-      <entry key="H4" value="213.2704198784077" />
-      <entry key="D1" value="734.5342176641989" />
-      <entry key="W1" value="1005.3244183622323" />
+      <entry key="MS100" value="0.006434304822402914" />
+      <entry key="MS500" value="0.3645023447041447" />
+      <entry key="S2" value="0.7770072687840495" />
+      <entry key="S5" value="0.9040033349529435" />
+      <entry key="S10" value="0.9507909440878756" />
+      <entry key="S30" value="0.9920056359817432" />
+      <entry key="S60" value="1.2428803916529425" />
+      <entry key="M2" value="2.509392180069604" />
+      <entry key="M5" value="5.697346137902955" />
+      <entry key="M10" value="8.370098175772021" />
+      <entry key="M15" value="10.358403365150965" />
+      <entry key="M30" value="17.84208791015661" />
+      <entry key="H1" value="34.72365098315412" />
+      <entry key="H2" value="72.71270712230401" />
+      <entry key="H4" value="170.37553817603703" />
+      <entry key="D1" value="731.7274610350061" />
+      <entry key="W1" value="1066.9433676658325" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -139,6 +139,7 @@
     "Python.recurstion_02.executor": "Run",
     "Python.recurstion_03.executor": "Run",
     "Python.recurstion_04.executor": "Run",
+    "Python.selection_sort.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -159,7 +160,7 @@
       <recent name="D:\Yuvraj\Projects\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p1">
+  <component name="RunManager" selected="Python.selection_sort">
     <configuration name="p1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -176,30 +177,6 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpiralMatrix/p1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacker Rank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacker Rank/q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,13 +257,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="selection_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting PGM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting PGM/selection_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.selection_sort" />
         <item itemvalue="Python.p1" />
         <item itemvalue="Python.q4" />
         <item itemvalue="Python.q3" />
         <item itemvalue="Python.q2" />
-        <item itemvalue="Python.q1" />
       </list>
     </recent_temporary>
   </component>
