@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef787b3c-838a-4d5e-8103-835a8469ae49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/l1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/q5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/s_w.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/tuple_q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Program/class/udemy1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker Rank/l2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/a1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/a2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/a3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/a6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/q3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpiralMatrix/p2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpiralMatrix/p2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacker Rank/q5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,60 +48,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000008394814" />
-      <entry key="S2" value="1.0062904472499414" />
-      <entry key="S5" value="1.2185782449773723" />
-      <entry key="S10" value="1.8990223361905647" />
-      <entry key="S30" value="4.306588096598337" />
-      <entry key="S60" value="6.0394109339209034" />
-      <entry key="M2" value="7.647868632059994" />
-      <entry key="M5" value="11.336151399121148" />
-      <entry key="M10" value="17.03579273468246" />
-      <entry key="M15" value="22.974153728726524" />
-      <entry key="M30" value="41.40443071629684" />
-      <entry key="H1" value="74.12933085448614" />
-      <entry key="H2" value="131.08347294386013" />
-      <entry key="H4" value="240.56362694753446" />
-      <entry key="D1" value="937.5228473165384" />
-      <entry key="W1" value="1503.8248677068918" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000605533" />
+      <entry key="S5" value="1.0000818192591694" />
+      <entry key="S10" value="1.0090453998899687" />
+      <entry key="S30" value="1.2083576255245612" />
+      <entry key="S60" value="1.4567262063429467" />
+      <entry key="M2" value="1.696139453485471" />
+      <entry key="M5" value="2.500942640118529" />
+      <entry key="M10" value="5.227191530393514" />
+      <entry key="M15" value="8.696266561354612" />
+      <entry key="M30" value="18.735132886755448" />
+      <entry key="H1" value="36.14896674186349" />
+      <entry key="H2" value="84.2380928612159" />
+      <entry key="H4" value="203.8165565946354" />
+      <entry key="D1" value="1017.5070311599511" />
+      <entry key="W1" value="1748.071163066433" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="4.46502735577835E-95" />
-      <entry key="S5" value="1.8194061132009758E-38" />
-      <entry key="S10" value="1.3488536292722705E-19" />
-      <entry key="S30" value="5.128476435655531E-7" />
-      <entry key="S60" value="7.164587034613316E-4" />
-      <entry key="M2" value="0.027331422450241373" />
-      <entry key="M5" value="0.2932565757925264" />
-      <entry key="M10" value="0.8964009186848918" />
-      <entry key="M15" value="1.595716680796087" />
-      <entry key="M30" value="4.103341091504378" />
-      <entry key="H1" value="8.933307148934441" />
-      <entry key="H2" value="16.340009977710622" />
-      <entry key="H4" value="27.750402624142914" />
-      <entry key="D1" value="93.22678904670552" />
-      <entry key="W1" value="145.8991734585957" />
+      <entry key="S2" value="2.5449680019847336E-290" />
+      <entry key="S5" value="1.4530244777691343E-116" />
+      <entry key="S10" value="1.2054146498010163E-58" />
+      <entry key="S30" value="4.9418069000456396E-20" />
+      <entry key="S60" value="2.2670161479011007E-10" />
+      <entry key="M2" value="1.701648350251278E-5" />
+      <entry key="M5" value="0.017264876402915456" />
+      <entry key="M10" value="0.2102682976934389" />
+      <entry key="M15" value="0.5622747331149268" />
+      <entry key="M30" value="1.7953417496236146" />
+      <entry key="H1" value="3.830396513572398" />
+      <entry key="H2" value="8.80642705280845" />
+      <entry key="H4" value="21.305432206609556" />
+      <entry key="D1" value="100.94079814293728" />
+      <entry key="W1" value="170.05556063369946" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.01617601443502152" />
-      <entry key="MS500" value="0.43830286097050997" />
-      <entry key="S2" value="0.8186848136751239" />
-      <entry key="S5" value="1.1229838895248905" />
-      <entry key="S10" value="1.8285807608212306" />
-      <entry key="S30" value="4.264338162772711" />
-      <entry key="S60" value="6.013298207442846" />
-      <entry key="M2" value="7.658195205266966" />
-      <entry key="M5" value="11.616832315501904" />
-      <entry key="M10" value="17.921297232405497" />
-      <entry key="M15" value="24.559586648752113" />
-      <entry key="M30" value="45.49794771664954" />
-      <entry key="H1" value="83.05342402564423" />
-      <entry key="H2" value="147.41498193411124" />
-      <entry key="H4" value="268.30602091987885" />
-      <entry key="D1" value="1030.744483657831" />
-      <entry key="W1" value="1649.7228877093137" />
+      <entry key="MS100" value="0.004100455795402608" />
+      <entry key="MS500" value="0.33309370627300544" />
+      <entry key="S2" value="0.759699090971465" />
+      <entry key="S5" value="0.8959649919228818" />
+      <entry key="S10" value="0.9549406646329226" />
+      <entry key="S30" value="1.185316399812833" />
+      <entry key="S60" value="1.442221190105582" />
+      <entry key="M2" value="1.6874985737176726" />
+      <entry key="M5" value="2.5130772449707446" />
+      <entry key="M10" value="5.432288457336554" />
+      <entry key="M15" value="9.252822075924028" />
+      <entry key="M30" value="20.524080854397795" />
+      <entry key="H1" value="39.97315648768419" />
+      <entry key="H2" value="93.03790282372124" />
+      <entry key="H4" value="225.1146148026921" />
+      <entry key="D1" value="1118.4421315500188" />
+      <entry key="W1" value="1918.125363079564" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -119,6 +120,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.a1.executor": "Run",
+    "Python.a2.executor": "Run",
+    "Python.a3.executor": "Run",
+    "Python.a6.executor": "Run",
     "Python.bubbleshort.executor": "Run",
     "Python.class_01.executor": "Run",
     "Python.class_02.executor": "Run",
@@ -137,6 +141,7 @@
     "Python.inh_03.executor": "Run",
     "Python.insertion.executor": "Run",
     "Python.l1.executor": "Run",
+    "Python.l2.executor": "Run",
     "Python.l_8.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p1_01.executor": "Run",
@@ -178,8 +183,8 @@
       <recent name="D:\Yuvraj\Projects\Python\Hacker Rank" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q5">
-    <configuration name="l1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.a6">
+    <configuration name="a1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,13 +193,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="D:\Yuvraj\Projects\Python\Hacker Rank\l1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/a1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="a2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,13 +217,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacker Rank/q5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/a2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s_w" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="a3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,13 +241,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacker Rank/s_w.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/a3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuple_q" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="a6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,13 +265,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacker Rank/tuple_q.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/a6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="udemy1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,13 +289,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object Oriented Program/class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Oriented Program/class/udemy1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/q3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.q5" />
-        <item itemvalue="Python.s_w" />
-        <item itemvalue="Python.tuple_q" />
-        <item itemvalue="Python.l1" />
-        <item itemvalue="Python.udemy1" />
+        <item itemvalue="Python.a6" />
+        <item itemvalue="Python.q3" />
+        <item itemvalue="Python.a3" />
+        <item itemvalue="Python.a2" />
+        <item itemvalue="Python.a1" />
       </list>
     </recent_temporary>
   </component>
