@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef787b3c-838a-4d5e-8103-835a8469ae49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/l2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/a1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/a2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/a3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/a6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/q3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hacker Rank/q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacker Rank/q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/a6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/a6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,59 +43,59 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000605533" />
-      <entry key="S5" value="1.0000818192591694" />
-      <entry key="S10" value="1.0090453998899687" />
-      <entry key="S30" value="1.2083576255245612" />
-      <entry key="S60" value="1.4567262063429467" />
-      <entry key="M2" value="1.696139453485471" />
-      <entry key="M5" value="2.500942640118529" />
-      <entry key="M10" value="5.227191530393514" />
-      <entry key="M15" value="8.696266561354612" />
-      <entry key="M30" value="18.735132886755448" />
-      <entry key="H1" value="36.14896674186349" />
-      <entry key="H2" value="84.2380928612159" />
-      <entry key="H4" value="203.8165565946354" />
-      <entry key="D1" value="1017.5070311599511" />
-      <entry key="W1" value="1748.071163066433" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000008413" />
+      <entry key="S30" value="1.001014520406329" />
+      <entry key="S60" value="1.1929442612341912" />
+      <entry key="M2" value="3.6691413283089287" />
+      <entry key="M5" value="13.949878832024318" />
+      <entry key="M10" value="23.408315615867732" />
+      <entry key="M15" value="28.976658247858403" />
+      <entry key="M30" value="40.854301952232625" />
+      <entry key="H1" value="59.67604180720238" />
+      <entry key="H2" value="106.16029695655972" />
+      <entry key="H4" value="222.65714224321584" />
+      <entry key="D1" value="1039.4911300021843" />
+      <entry key="W1" value="1782.127898736243" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.5449680019847336E-290" />
-      <entry key="S5" value="1.4530244777691343E-116" />
-      <entry key="S10" value="1.2054146498010163E-58" />
-      <entry key="S30" value="4.9418069000456396E-20" />
-      <entry key="S60" value="2.2670161479011007E-10" />
-      <entry key="M2" value="1.701648350251278E-5" />
-      <entry key="M5" value="0.017264876402915456" />
-      <entry key="M10" value="0.2102682976934389" />
-      <entry key="M15" value="0.5622747331149268" />
-      <entry key="M30" value="1.7953417496236146" />
-      <entry key="H1" value="3.830396513572398" />
-      <entry key="H2" value="8.80642705280845" />
-      <entry key="H4" value="21.305432206609556" />
-      <entry key="D1" value="100.94079814293728" />
-      <entry key="W1" value="170.05556063369946" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.2841148163121E-234" />
+      <entry key="S10" value="1.133187899898458E-117" />
+      <entry key="S30" value="1.0429758660500755E-39" />
+      <entry key="S60" value="3.293433187195672E-20" />
+      <entry key="M2" value="2.0510060382414797E-10" />
+      <entry key="M5" value="1.860382829056062E-4" />
+      <entry key="M10" value="0.021826958519881746" />
+      <entry key="M15" value="0.12419235172416385" />
+      <entry key="M30" value="0.8437626009224236" />
+      <entry key="H1" value="2.6259128242094643" />
+      <entry key="H2" value="7.291519261499089" />
+      <entry key="H4" value="19.386503660561594" />
+      <entry key="D1" value="99.36534044182686" />
+      <entry key="W1" value="169.67383058970393" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.004100455795402608" />
-      <entry key="MS500" value="0.33309370627300544" />
-      <entry key="S2" value="0.759699090971465" />
-      <entry key="S5" value="0.8959649919228818" />
-      <entry key="S10" value="0.9549406646329226" />
-      <entry key="S30" value="1.185316399812833" />
-      <entry key="S60" value="1.442221190105582" />
-      <entry key="M2" value="1.6874985737176726" />
-      <entry key="M5" value="2.5130772449707446" />
-      <entry key="M10" value="5.432288457336554" />
-      <entry key="M15" value="9.252822075924028" />
-      <entry key="M30" value="20.524080854397795" />
-      <entry key="H1" value="39.97315648768419" />
-      <entry key="H2" value="93.03790282372124" />
-      <entry key="H4" value="225.1146148026921" />
-      <entry key="D1" value="1118.4421315500188" />
-      <entry key="W1" value="1918.125363079564" />
+      <entry key="MS100" value="0.9395227492140118" />
+      <entry key="MS500" value="0.9876008614453725" />
+      <entry key="S2" value="0.9968856972203758" />
+      <entry key="S5" value="0.9987531130852756" />
+      <entry key="S10" value="0.9993763620813513" />
+      <entry key="S30" value="1.0008064180883718" />
+      <entry key="S60" value="1.1928224373597218" />
+      <entry key="M2" value="3.6689629408659146" />
+      <entry key="M5" value="13.94974087754947" />
+      <entry key="M10" value="23.42938467500385" />
+      <entry key="M15" value="29.09941281063566" />
+      <entry key="M30" value="41.694956155399574" />
+      <entry key="H1" value="62.29764323762349" />
+      <entry key="H2" value="113.44630799978775" />
+      <entry key="H4" value="242.03692103448515" />
+      <entry key="D1" value="1138.850859070142" />
+      <entry key="W1" value="1951.8003713942023" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -116,65 +110,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.a1.executor": "Run",
-    "Python.a2.executor": "Run",
-    "Python.a3.executor": "Run",
-    "Python.a6.executor": "Run",
-    "Python.bubbleshort.executor": "Run",
-    "Python.class_01.executor": "Run",
-    "Python.class_02.executor": "Run",
-    "Python.date&time.executor": "Run",
-    "Python.day.executor": "Run",
-    "Python.day1.executor": "Run",
-    "Python.day2.executor": "Run",
-    "Python.del_fun.executor": "Run",
-    "Python.funcation_01.executor": "Run",
-    "Python.funcation_02.executor": "Run",
-    "Python.funcation_03.executor": "Run",
-    "Python.funcation_04.executor": "Run",
-    "Python.funcation_05.executor": "Run",
-    "Python.inh_01.executor": "Run",
-    "Python.inh_02.executor": "Run",
-    "Python.inh_03.executor": "Run",
-    "Python.insertion.executor": "Run",
-    "Python.l1.executor": "Run",
-    "Python.l2.executor": "Run",
-    "Python.l_8.executor": "Run",
-    "Python.p1.executor": "Run",
-    "Python.p1_01.executor": "Run",
-    "Python.p2.executor": "Run",
-    "Python.property_01.executor": "Run",
-    "Python.q1.executor": "Run",
-    "Python.q2.executor": "Run",
-    "Python.q3.executor": "Run",
-    "Python.q4.executor": "Run",
-    "Python.q5.executor": "Run",
-    "Python.recurstion_01.executor": "Run",
-    "Python.recurstion_02.executor": "Run",
-    "Python.recurstion_03.executor": "Run",
-    "Python.recurstion_04.executor": "Run",
-    "Python.s_w.executor": "Run",
-    "Python.selection_sort.executor": "Run",
-    "Python.tuple_q.executor": "Run",
-    "Python.udemy1.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "last_opened_file_path": "D:/Yuvraj/Projects/Python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.a1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.a2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.a3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.a6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bubbleshort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date&amp;time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.del_fun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcation_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inh_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inh_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inh_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insertion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.l1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.l2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.l_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p1_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurstion_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurstion_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurstion_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurstion_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s_w.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selection_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.udemy1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Yuvraj/Projects/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Yuvraj\Projects\Python" />

@@ -13,4 +13,4 @@ for _ in range(t):
     #         print(r,end="")
     #     n //= 10
     #
-    # print()
+    # print()fouth
